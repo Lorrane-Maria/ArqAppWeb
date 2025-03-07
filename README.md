@@ -5,9 +5,9 @@ Este é um projeto simples utilizando Spring Boot para criar um endpoint que ret
 ## Estrutura do Projeto
 
 A estrutura do projeto é a seguinte:
-
+```bash
 src/ └── main/ └── java/ └── com/ └── seuprojeto/ └── controller/ └── HelloController.java └── resources/ └── application.properties └── test/ └── java/ └── com/ └── seuprojeto/ └── HelloControllerTest.java
-
+```
 
 - **HelloController.java**: A classe responsável por implementar o endpoint que responde com a mensagem "Hello, World!".
 - **application.properties**: Arquivo de configuração do Spring Boot (não foi alterado para este exemplo simples).
